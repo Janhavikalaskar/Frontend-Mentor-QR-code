@@ -41,12 +41,12 @@ body{
   font-size: 15px;
 }
 
- .attribution {
+ footer.attribution {
   font-size: 11px;
   text-align: center;
   margin-top: 4rem;
  }
         
- .attribution a {
+ footer.attribution a {
             color: hsl(228, 45%, 44%);
         }
